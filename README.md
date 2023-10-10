@@ -1,1 +1,0 @@
-This project is a Java-based web test automation framework designed to streamline and simplify the process of testing web applications. Whether you're a developer looking to automate your web application tests or a tester seeking a robust automation solution, this framework can help you achieve your goals.
