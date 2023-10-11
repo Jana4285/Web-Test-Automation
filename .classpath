@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-buffer-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-codec-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-codec-http-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-codec-socks-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-common-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-handler-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-handler-proxy-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-resolver-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-transport-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-transport-classes-epoll-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-transport-classes-kqueue-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-transport-native-epoll-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-transport-native-kqueue-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/netty-transport-native-unix-common-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-api-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-api-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-chrome-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-chrome-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-chromium-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-chromium-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v115-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v115-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v116-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v116-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v117-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v117-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v85-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-devtools-v85-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-edge-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-edge-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-firefox-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-firefox-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-http-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-http-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-ie-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-ie-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-java-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-java-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-json-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-json-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-manager-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-manager-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-os-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-os-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-remote-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-remote-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-safari-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-safari-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-support-4.13.0.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/selenium-support-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="ThirdParty resouce files/Selenium java language bindings/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
