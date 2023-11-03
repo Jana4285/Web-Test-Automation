@@ -100,8 +100,8 @@ public class WebElementAutomation {
 		 TextBox.sendKeys("sample Text Has been Added");
 		 
 		//identify the LinkText -HyperLink
-		 //driver.findElement(By.linkText("your destination")).click();
-		// System.out.println("I used your destination");
+		 driver.findElement(By.linkText("your destination")).click();
+		System.out.println("I used your destination");
 		 
 		 //retreving the number of column in the  table
 		 List <WebElement> columns= driver.findElements(By.xpath("//html/body/table/tbody/tr"));
